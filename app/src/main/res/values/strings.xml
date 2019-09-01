@@ -19,6 +19,8 @@
         <item>SEK</item>
         <item>USD</item>
         <item>ZAR</item>
+        <item>BBB</item>
+        <item>INR</item>
     </string-array>
 
 
